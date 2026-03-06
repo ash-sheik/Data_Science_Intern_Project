@@ -47,4 +47,4 @@ Open the notebook and run the cells—the charts will generate automatically!
 Author
 Ashiba B
 
-Aspiring Data Analyst |Python |Jupyter Notebook | Power BI | Excel | SQL | Data Visualization
+Aspiring Data Analyst | Python | Jupyter Notebook | Power BI | Excel | SQL | Data Visualization
