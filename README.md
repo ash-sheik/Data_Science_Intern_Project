@@ -44,6 +44,8 @@ Make sure you have pandas and seaborn installed.
 
 Open the notebook and run the cells—the charts will generate automatically!
 
+Project summary : https://docs.google.com/document/d/1l-xVouyi6Sv3hW3he6PcqSyH-DJaMqTUndb5SEiyWYI/edit?usp=sharing
+
 Author
 Ashiba B
 
