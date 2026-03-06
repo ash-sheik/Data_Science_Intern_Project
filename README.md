@@ -29,7 +29,8 @@ Seaborn & Matplotlib: To turn the rows of numbers into the charts you see in the
 Jupyter Notebook: Where all the experimentation happened.
 
 📂 What's Inside?
-data/: Both the raw files I started with and the final cleaned version.
+data/: https://drive.google.com/drive/folders/1_sbi4r_6SsnV-1Il6tFCqen_QEp1-ZLJ?usp=sharing 
+       Both the raw files I started with and the final cleaned version.
 
 notebooks/: My step-by-step logic and code.
 
